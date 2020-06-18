@@ -1,0 +1,15 @@
+{
+    "name": "stefan/pdftk",
+    
+    "autoload" : {
+
+        "psr-4" : {
+
+            "Classes\\" : "./classes"
+        }
+    },
+
+    "require": {
+        "mikehaertl/php-pdftk": "^0.8.0"
+    }
+}
